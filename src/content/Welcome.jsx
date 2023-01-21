@@ -103,7 +103,7 @@ const Welcome = () => {
 
       <footer>
         <div className="footer">
-          <a href="">
+          <a href="https://github.com/EbertPalmeira/QuizWeb/tree/main/src">
             <img src={git} alt="" />
             <p>Repósitorio</p>
           </a>
